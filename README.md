@@ -1,7 +1,7 @@
 # Isaree
 
 <p align="center">
-  <img src="docs/assets/isaree-logo.png" alt="Isaree Logo" width="200"/>
+  <img src="docs/assets/Isaree Main Logo 800x600.jpg" alt="Isaree Logo" width="200"/>
 </p>
 
 <p align="center">
