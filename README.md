@@ -70,7 +70,7 @@ Isaree consists of five main layers:
 5. **Integration and Data Layers**: Connects with healthcare systems and data sources
 
 <p align="center">
-  <img src="docs/assets/architecture-overview.png" alt="Isaree Architecture" width="600"/>
+  <img src="docs/assets/architecture-overview.png" alt="Isaree Architecture (coming soon)" width="600"/>
 </p>
 
 ## Contributing
@@ -93,7 +93,7 @@ Our development roadmap is organized into phases:
 2. **Expansion Phase**: Enhanced capabilities, initial agent marketplace, and integration APIs
 3. **Ecosystem Phase**: Comprehensive agent ecosystem, advanced orchestration, and clinical validation
 
-See our detailed [Roadmap](docs/roadmap/README.md) for more information.
+See our detailed [Roadmap on demand](docs/roadmap/README.md) for more information.
 
 ## Compliance & Security
 
