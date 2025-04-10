@@ -93,7 +93,7 @@ Our development roadmap is organized into phases:
 2. **Expansion Phase**: Enhanced capabilities, initial agent marketplace, and integration APIs
 3. **Ecosystem Phase**: Comprehensive agent ecosystem, advanced orchestration, and clinical validation
 
-See our detailed [Roadmap on demand](docs/roadmap/README.md) for more information.
+See our detailed [Roadmap (public  version in progress)](docs/roadmap/README.md) for more information.
 
 ## Compliance & Security
 
