@@ -20,7 +20,7 @@ Isaree is an open-source, medical-compliant AI Assistant and Agent Orchestration
 
 - **Privacy-First Architecture**: On-device processing for sensitive data with end-to-end encryption
 - **Multi-Modal Input Processing**: Handle speech, text, and images with medical context awareness
-- **Medical Compliance Built-In**: Designed from the ground up for HIPAA, GDPR, and other healthcare regulations
+- **Compliant by Design**: Designed from the ground up for HIPAA, GDPR, and other healthcare regulations
 - **AI Agent Marketplace**: Ecosystem for specialized medical AI agents with rigorous verification
 - **Orchestration Engine**: Coordinate multiple AI agents for complex healthcare workflows
 - **Healthcare Integration**: Connect with existing healthcare systems through standard protocols
