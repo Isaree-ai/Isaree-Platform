@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/isaree/isaree/actions"><img src="https://github.com/isaree/isaree/workflows/CI/badge.svg" alt="Build Status"></a>
   <a href="https://github.com/isaree/isaree/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
   <a href="https://github.com/isaree/isaree/releases"><img src="https://img.shields.io/github/v/release/isaree/isaree" alt="Latest Release"></a>
   <a href="https://github.com/isaree/isaree/stargazers"><img src="https://img.shields.io/github/stars/isaree/isaree" alt="GitHub stars"></a>
