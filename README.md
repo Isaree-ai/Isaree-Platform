@@ -29,6 +29,7 @@ Isaree is an open-source, medical-compliant AI Assistant and Agent Orchestration
 
 Isaree is in active development. We're building the foundation for a robust, medical-grade AI platform and invite contributors to join us in this mission. Currently, we're focusing on:
 
+- On Device AI transcription and AI Assistance
 - Core architecture and infrastructure
 - Security and compliance frameworks
 - Client-side processing capabilities
